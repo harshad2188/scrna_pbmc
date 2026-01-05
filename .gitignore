@@ -1,0 +1,15 @@
+# Data
+data/
+results/
+
+# R
+.Rhistory
+.RData
+*.RDS
+
+# Python
+__pycache__/
+*.pyc
+
+# Other
+*.log
